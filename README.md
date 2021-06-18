@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hola soy nacho 👋
 
-<!--
-**Ignaherrero/ignaherrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mi
 
-Here are some ideas to get you started:
+```javascript
+const nacho = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Styled - Components, Jest, Enzyme, ChakraUI],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos
+
+- Adogtemos
+- Github Jobs
+- ToDo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaherrero)](https://github.com/ignaherrero/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaherrero)](https://github.com/ignaherrero/github-readme-stats)
+
+### Encontrame en
+
+[Mi LinkedIn](https://www.linkedin.com/in/ignacioah/)
