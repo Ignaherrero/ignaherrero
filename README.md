@@ -5,15 +5,17 @@
 ```javascript
 const nacho = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Styled - Components, Jest, Enzyme, ChakraUI],
+  tools: [React, Redux, Styled Components, Jest, Enzyme, ChakraUI, Firebase],
 };
 ```
 
 ### Proyectos
 
 - Adogtemos
-- Github Jobs
 - ToDo
+- Journal
+- Calendar
+- Ecommerce
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaherrero)](https://github.com/ignaherrero/github-readme-stats)
 
@@ -22,3 +24,4 @@ const nacho = {
 ### Encontrame en
 
 [Mi LinkedIn](https://www.linkedin.com/in/ignacioah/)
+[Mi Web](https://portfolio-inky-one-74.vercel.app/port)
