@@ -24,4 +24,4 @@ const nacho = {
 ### Encontrame en
 
 [Mi LinkedIn](https://www.linkedin.com/in/ignacioah/)
-[Mi Web](https://my-portfolio-o5iei2a9i-ignaherrero.vercel.app/home)
+[Mi Web](https://my-portfolio-nacho93.vercel.app/home)
